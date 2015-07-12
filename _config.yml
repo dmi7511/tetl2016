@@ -14,9 +14,9 @@ links:
   url: /about
 - title: skills
   url: /skills 
-  - title: resources 
-    url: /resources 
-  - title: hire me 
-    url: /hire-me 
+- title: resources 
+  url: /resources 
+- title: hire me 
+  url: /hire-me 
 # Build settings
 markdown: kramdown
